@@ -1,1 +1,1 @@
-module "do-metadata"
+module "github.com/codegaudi/do-metadata"
